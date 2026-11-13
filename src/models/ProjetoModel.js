@@ -68,6 +68,20 @@ export class ProjetoModel {
         equipe: "Projeto Base (Referência)",
         status: "publicado",
         url: "disciplinas/disciplina-9.html"
+      },
+      {
+        id: 10,
+        nome: "Administração de Redes II",
+        equipe: "Projeto acadêmico",
+        status: "publicado",
+        url: "Site%20rede2/redes.html"
+      },
+      {
+        id: 11,
+        nome: "Interação Homem-Máquina",
+        equipe: "Projeto acadêmico",
+        status: "publicado",
+        url: "site-ux/index.html"
       }
     ];
   }
