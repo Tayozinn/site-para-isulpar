@@ -1,4 +1,4 @@
-import { ProjetoModel } from "./models/ProjetoModel.js";
+import { ProjetoModel } from "./models/ProjetoModel.js?v=86f6e045";
 import { ProjetoView } from "./views/ProjetoView.js";
 import { ProjetoController } from "./controllers/ProjetoController.js";
 
